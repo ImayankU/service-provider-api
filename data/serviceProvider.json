@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "BSNL",
+      "plan": "Unlimited",
+      "rating": 4.2,
+      "validity": "30 days",
+      "max_speed": "100Mbps",
+      "contact_number": "1234567890",
+      "email": "support@bsnl.com",
+      "description": "Best internet provider with wide coverage.",
+      "price": "₹2200"
+    },
+    {
+      "id": 2,
+      "name": "VODAFONE",
+      "plan": "Prepaid",
+      "rating": 4.0,
+      "validity": "28 days",
+      "max_speed": "50Mbps",
+      "contact_number": "0987654321",
+      "email": "support@vodafone.com",
+      "description": "Affordable internet plans with good customer support.",
+      "price": "₹1800"
+    },
+    {
+      "id": 3,
+      "name": "IDEA",
+      "plan": "Postpaid",
+      "rating": 3.8,
+      "validity": "31 days",
+      "max_speed": "75Mbps",
+      "contact_number": "1122334455",
+      "email": "support@idea.com",
+      "description": "Reliable internet services with flexible plans.",
+      "price": "₹2000"
+    },
+    {
+      "id": 4,
+      "name": "HATHWAY",
+      "plan": "Fiber",
+      "rating": 4.5,
+      "validity": "60 days",
+      "max_speed": "200Mbps",
+      "contact_number": "2233445566",
+      "email": "support@hathway.com",
+      "description": "High-speed fiber internet with unlimited data.",
+      "price": "₹4000"
+    },
+    {
+      "id": 5,
+      "name": "JIO",
+      "plan": "Unlimited",
+      "rating": 4.7,
+      "validity": "28 days",
+      "max_speed": "150Mbps",
+      "contact_number": "3344556677",
+      "email": "support@jio.com",
+      "description": "Fast internet with a range of affordable plans.",
+      "price": "₹2500"
+    },
+    {
+      "id": 6,
+      "name": "AIRTEL",
+      "plan": "Prepaid",
+      "rating": 4.3,
+      "validity": "30 days",
+      "max_speed": "120Mbps",
+      "contact_number": "4455667788",
+      "email": "support@airtel.com",
+      "description": "Reliable internet with extensive coverage and fast speeds.",
+      "price": "₹2700"
+    }
+  ]
+  
